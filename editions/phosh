@@ -102,4 +102,3 @@ glibc-locales
 wireplumber
 gst-plugin-pipewire
 xdg-desktop-portal-gtk # to fix slow program startup
-livi
