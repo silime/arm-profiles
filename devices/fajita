@@ -7,5 +7,6 @@ pd-mapper
 tqftpserv
 wpa_supplicant
 wireless-regdb
+pulseaudio-bluetooth
 pinephone-post-install
 pinephone-manjaro-tweaks
