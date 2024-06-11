@@ -7,12 +7,6 @@
 >fajita plasma-dialer
 >fajita noto-fonts-cjk
 >fajita protobuf-c
-# OpenGLES qt packages
-qt5-es2-base
-qt5-es2-declarative
-qt5-es2-multimedia
-pyside2-es2
-
 # Multimedia packages
 gst-libav
 gst-plugins-bad
@@ -41,7 +35,7 @@ kaccounts-providers
 kalk
 kclock
 kio-extras
-kpeoplesink
+#kpeoplesink
 krecorder
 kweather
 kwin
@@ -53,12 +47,11 @@ anthy #fix japanese
 libpinyin #fix chinese
 libchewing #fix chinese
 maui-nota
-okular
+#okular
 oxygen-sounds
-plasma-mobile-nm
+plasma-mobile
 plasma-mobile-settings
 plasma-nano
-plasma-phone-components
 plasma-phonebook
 #plasma-pix
 plasma-settings
@@ -69,8 +62,8 @@ telepathy-mission-control
 xdg-utils
 
 # First run wizard
-pico-wizard-plamo-scripts
-pico-wizard-git
+#pico-wizard-plamo-scripts
+#pico-wizard-git
 
 # Packages to be built
 #qrca #no tagged release
@@ -81,7 +74,7 @@ bluez
 bluedevil
 breeze
 drkonqi
-elisa-qtmm
+#elisa-qtmm
 kdeconnect
 kinit
 kwallet-pam
@@ -102,7 +95,6 @@ manjaro-arm-wallpapers
 manjaro-icons
 
 # Wayland stuff
-kwayland
 kwayland-integration
 xorg-server-xwayland
 

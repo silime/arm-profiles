@@ -1,4 +1,8 @@
-uboot-pinephone
+boot-generic-efi
+efibootmgr
+grub
+plymouth
+plymouth-theme-manjaro
 bootsplash-theme-manjaro
 bootsplash-systemd
 wpa_supplicant
@@ -6,6 +10,5 @@ qrtr
 rmtfs
 pd-mapper
 tqftpserv
-wireless-regdb
-pinephone-post-install
-pinephone-manjaro-tweaks
+generic-efi-post-install
+generic-post-install
