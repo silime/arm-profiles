@@ -16,7 +16,6 @@
 >fajita phosh-antispam
 >fajita gnome-calls
 >fajita epiphany
->fajita purple-mm-sms
 >fajita mobile-config-firefox
 >fajita vvmplayer
 >fajita pamac-mobile-integration
@@ -32,8 +31,6 @@ mmsd-tng
 evince-mobile
 powersupply
 >pinephone purple-mm-sms
-purple-matrix
-purple-telegram
 sound-theme-phosh
 #squeekboard
 megapixels
