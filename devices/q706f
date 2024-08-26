@@ -1,10 +1,12 @@
-plymouth
-plymouth-theme-manjaro
+uboot-pinephone
+bootsplash-theme-manjaro
+bootsplash-systemd
 qrtr
 rmtfs
 pd-mapper
 tqftpserv
 wpa_supplicant
 wireless-regdb
+pulseaudio-bluetooth
 pulseaudio
 generic-post-install
