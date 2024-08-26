@@ -45,7 +45,7 @@ matcha-gtk-theme
 papirus-maia-icon-theme
 xcursor-breeze
 kvantum-theme-matchama
-kvantum-qt5
+kvantum
 
 # Package Manager
 pamac-gtk
