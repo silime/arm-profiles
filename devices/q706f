@@ -1,7 +1,3 @@
-## Maintained by Strit ##
-## This "device" profile, requires u-boot/tow-boot to be flashed to the SPI of the board
-
-# Kernel and bootloader stuff
 bootsplash-theme-manjaro
 bootsplash-systemd
 boot-generic
@@ -13,9 +9,5 @@ pd-mapper
 tqftpserv
 wpa_supplicant
 wireless-regdb
-
-# Video drivers
-
-# Other device specific packages
 pulseaudio
 generic-post-install
