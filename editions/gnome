@@ -6,14 +6,10 @@ alsa-utils
 bluez
 bluez-utils
 wireplumber
-pipewire-alsa
-pipewire-jack
-pipewire-pulse
-pipewire-zeroconf
 grilo
 grilo-plugins
 gst-libav
-gst-plugin-pipewire
+
 libva-v4l2-request
 
 # Display Manager

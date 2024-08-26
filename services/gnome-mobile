@@ -24,3 +24,8 @@ systemd-oomd.service
 >fajita iio-sensor-proxy.service
 >fajita q6voiced.service
 >fajita msm-modem-uim-selection.service
+>q706f qrtr-ns.service
+>q706f rmtfs.service
+>q706f pd-mapper.service
+>q706f tqftpserv.service
+>q706f iio-sensor-proxy.service

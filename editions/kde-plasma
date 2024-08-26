@@ -4,11 +4,7 @@
 alsa-utils
 mpv
 wireplumber
-pipewire-alsa
-pipewire-jack
-pipewire-pulse
-pipewire-zeroconf
-gst-plugin-pipewire
+
 
 # Display Manager
 sddm
