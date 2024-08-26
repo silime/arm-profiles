@@ -9,5 +9,4 @@ wpa_supplicant
 wireless-regdb
 pulseaudio
 pulseaudio-bluetooth
-pinephone-post-install
-pinephone-manjaro-tweaks
+generic-post-install
