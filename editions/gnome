@@ -6,14 +6,14 @@ alsa-utils
 bluez
 bluez-utils
 wireplumber
-pipewire-alsa
-pipewire-jack
-pipewire-pulse
-pipewire-zeroconf
+#pipewire-alsa
+#pipewire-jack
+#pipewire-pulse
+#pipewire-zeroconf
 grilo
 grilo-plugins
 gst-libav
-gst-plugin-pipewire
+#gst-plugin-pipewire
 libva-v4l2-request
 
 # Display Manager
@@ -136,6 +136,7 @@ matray
 remmina
 seahorse
 simple-scan
+iio-sensor-proxy
 
 # File systems access
 gvfs

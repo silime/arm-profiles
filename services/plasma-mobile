@@ -15,3 +15,8 @@ irqbalance.service
 >pinephone ModemManager.service
 >pinephone pinephone-modem-scripts.pinephone-modem-setup.service
 >pinetab2 pinetab2-post-install.service
+>q706f qrtr-ns.service
+>q706f rmtfs.service
+>q706f pd-mapper.service
+>q706f tqftpserv.service
+>q706f iio-sensor-proxy.service

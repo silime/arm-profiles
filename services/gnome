@@ -8,3 +8,8 @@ systemd-oomd.service
 irqbalance.service
 bootsplash-hide-when-booted.service
 bootsplash-show-on-shutdown.service
+>q706f qrtr-ns.service
+>q706f rmtfs.service
+>q706f pd-mapper.service
+>q706f tqftpserv.service
+>q706f iio-sensor-proxy.service

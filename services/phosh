@@ -16,3 +16,8 @@ systemd-oomd.service
 #>pinephone waydroid-container.service
 >pinephone siglo.service
 #>pinephone eg25-autorestart.service
+>q706f qrtr-ns.service
+>q706f rmtfs.service
+>q706f pd-mapper.service
+>q706f tqftpserv.service
+>q706f iio-sensor-proxy.service

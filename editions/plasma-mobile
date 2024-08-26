@@ -11,7 +11,7 @@ gst-plugins-bad
 gst-plugins-base
 gst-plugins-ugly
 wireplumber
-gst-plugin-pipewire
+#gst-plugin-pipewire
 #ffmpeg-pp
 maui-clip
 
