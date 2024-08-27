@@ -1,6 +1,6 @@
 boot-generic
-bootsplash-theme-manjaro
-bootsplash-systemd
+plymouth
+plymouth-theme-manjaro
 qrtr
 rmtfs
 pd-mapper
