@@ -125,7 +125,6 @@ wget
 xdg-user-dirs
 debianutils
 flatpak
-iio-sensor-proxy
 #manjaro-arm-flasher
 #pamac-cli
 psensor

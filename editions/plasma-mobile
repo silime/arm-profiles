@@ -105,7 +105,6 @@ wget
 xdg-user-dirs
 debianutils
 flatpak
-iio-sensor-proxy
 megapixels
 bootsplash-theme-kde
 breeze-gtk

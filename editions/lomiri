@@ -77,7 +77,6 @@ wget
 xdg-user-dirs
 debianutils
 flatpak
-iio-sensor-proxy
 
 # Lomiri
 repowerd-git
